@@ -1,2 +1,9 @@
 # Generative-AI
 project about AI from team DTN
+1.	Sơ lược tình hình nghiên cứu, điều tra trong nước, ngoài nước:
+a.	Sơ lược tình hình:
++	  Trong nước: Công nghệ trí tuệ nhân tạo AI và các lĩnh vực phát triẻn dựa trên nền tảng  Ai phát triển bùng nổ. Các công việc liên quan đến lĩnh vực CNTT nói riêng cũng như các công việc văn phòng nói chung đang dần trở nên quá sức đối với người lao động. Do đó việc ứng dụng AI như ChatGPT vào công việc giúp đỡ và cải thiện hiệu suất làm việc lên cao song các AI phổ thông hiện nay đều là các AI rộng tức có nghĩa là nó có thể hỗ trợ nhiều lĩnh vực song lại chưa chuyên sâu về một chuyên ngành gây khó khăn cho việc ứng dụng AI vào công việc.
++  Ngoài nước: AI hiện đang là lĩnh vực công nghệ có xu hướng phát triển mạnh mẽ nhất trong những năm gần đây, cuộc chạy đua về công nghệ AI giữa các gã khổng lồ công nghệ như GOOGLE , OpenAi , Microsolf , ..... đang dần khiến cho AI hoàn thiện ở mức độ chưa từng có. Song song với việc đó, AI dường như đã len lỏi vào mọi mặt đời sống xã hội, tuy nhiên các AI hiện nay đang đều được xử lý thêo mô hình học rộng thay vì học sâu nên việc đưa ra phán đoán về các lĩnh vực chuyên môn cao còn có nhiều hạn chế và sai sót. Vì vậy, việc thiết kế và tạo ra các AI với Database được tối ưu hóa cho từng lĩnh vực là rất cần thiết .
+b.	Nhu cầu thực tế và khả năng áp dụng kết quả đề tài:
++   Nhu cầu thực tế: Việc ứng dụng hệ thống gợi ý của Ai là cấp thiết nhất là trong các cơ sở giáo dụng, nghiên cứu,.... Việc xây dựng hệ thống gợi ý dựa trên Database nạp sẵn , có thể thay đổi giúp cải thiện độ tin cậy trong việc xử lý các thông tin của AI từ đó tăng độ chính xác của kết quả trả về.
++  Tiềm năng phát triển: Cung cấp công cụ hỗ trợ đắc lực cho học sinh và sinh viên trong việc học, cung cấp gợi ý cho người sử dụng dựa trên dữ liệu của người dùng đã nạp sẵn hoặc sử dụng trên tệp dữ liệu tích hợp của OpenAI.
